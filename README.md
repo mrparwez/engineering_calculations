@@ -17,3 +17,5 @@ Result:
   delta           = 9.9230 mm
   delta_limit     = 16.6667 mm
   deflection_check= PASS
+
+and all test cased are written in the order that ensure to pass or fail case
